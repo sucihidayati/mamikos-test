@@ -2,7 +2,7 @@
 
 > Project test frontend Mamikos build with Vue2
 
-#Demo Project : 
+# Demo Project : 
 ![](https://github.com/sucihidayati/mamikos-test/blob/main/screenshot/mamikos.gif)
 
 ## Build Setup
