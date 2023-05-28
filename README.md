@@ -3,7 +3,7 @@
 > Project test frontend Mamikos build with Vue2
 
 #Demo Project : 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/sucihidayati/mamikos-test/blob/main/screenshot/mamikos.gif)
+![](https://github.com/sucihidayati/mamikos-test/blob/main/screenshot/mamikos.gif)
 
 ## Build Setup
 
